@@ -7,7 +7,7 @@ Download the files as a zip using the green button, or clone the repository to y
 
 ## Notes
 
-This repository is designed to be used with my [*development installation*](https://github.com/rlang970417/orasetup-windows) of Db2 on AIX, Linux or, Windows Server.
+This repository is designed to be used with my [*development installation*](https://github.com/rlang970417/ans-ubuntu-deploy_db2) of Db2 on AIX, Linux or, Windows Server.
 
 ## References
 
