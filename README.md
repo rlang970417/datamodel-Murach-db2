@@ -1,4 +1,4 @@
-# datamodel-Murach
+# datamodel-Murach-db2
 
 This repository is a series of scripts to implement Murachs datamodel for use with Db2 11.5.x on Linux or AIX.
 This is a derivative work of [*Murach’s Oracle SQL and PL/SQL for Developers*](https://www.murach.com/shop/murach-s-oracle-sql-and-pl-sql-for-developers-2nd-edition-detail) by by Joel Murach (Murach, 2014).
